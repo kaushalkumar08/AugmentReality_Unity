@@ -1,4 +1,4 @@
-#AR IN Fitness
+# AR IN Fitness
 
 The importance of physical fitness is universally recognized, yet many individuals face challenges in adopting and maintaining proper exercise routines. These challenges often stem
 from a lack of understanding of correct techniques, leading to ineffective workouts or even injuries.
